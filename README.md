@@ -1,7 +1,5 @@
 <h1 align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/Ragdata/media/master/banner/pre-release.svg" />
-
 <img height="256" src="https://raw.githubusercontent.com/Ragdata/media/master/logo/Ragdata-64.svg" alt="RagsWorks - Reusable Actions and Workflows" />
 
 [Asynchronous PHP v-0.1.0](https://github.com/ragdata/php-async/releases/tag/v-0.1.0)
@@ -27,7 +25,7 @@
 
 #### _Elapsed Project Time_
 
-[![wakatime](https://wakatime.com/badge/user/7e04d9d4-3a44-495e-b622-69fdbafd036c/project/24da9cf1-9d6d-478b-94f6-ae0f6e47eb71.svg?style=for-the-badge)](https://wakatime.com/badge/user/7e04d9d4-3a44-495e-b622-69fdbafd036c/project/24da9cf1-9d6d-478b-94f6-ae0f6e47eb71)
+[![wakatime](https://wakatime.com/badge/user/7e04d9d4-3a44-495e-b622-69fdbafd036c/project/654aa704-d10c-4eaa-a00d-97e3d9697670.svg?style=for-the-badge)](https://wakatime.com/badge/user/7e04d9d4-3a44-495e-b622-69fdbafd036c/project/654aa704-d10c-4eaa-a00d-97e3d9697670)
 
 </div>
 
